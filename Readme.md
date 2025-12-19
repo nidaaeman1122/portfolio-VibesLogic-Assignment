@@ -16,12 +16,12 @@ organization, semantic HTML, basic styling, and version control.
 
 ## Folder Structure
 assets/
- images/       <!---assets folder--->
+ images/      
 css/
- styles.css      <!---CSS folder--->
+ styles.css     
 js/
- main.js          <!---javascript folder--->
-index.html       <!---main file--->
+ main.js         
+index.html      
 Readme.md
 
 ## Setup Instructions
@@ -40,5 +40,5 @@ git commit -m "Initial project structure"
 git commit -m "Added semantic HTML landing page"
 git commit -m "Added styling and documentation"
 git branch -M main
-git remote add origin <your-github-repo-link>
+git remote add origin (https://github.com/nidaaeman1122/portfolio-VibesLogic-Assignment.git)
 git push -u origin main
