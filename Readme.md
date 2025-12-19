@@ -1,7 +1,7 @@
 # Portfolio Shell - Foundation Project
 
 ## Student Information
-- Student ID: FA21-BCS-002
+- Student ID:SC_1_240 
 
 ## Project Purpose
 This project is a portfolio shell that serves as the structural foundation
